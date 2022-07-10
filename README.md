@@ -1,4 +1,4 @@
-# Web shop microservice Project
+# Web shop Microservice Fullsatck Project
 
 The webshop contains products that we can add or remove from a shoppingcart
 We can also add multiple copies of the same product in the shoppingcart
