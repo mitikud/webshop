@@ -8,6 +8,8 @@ For every order we need to know
 + The customer
 + The creditcard information
 + The shipping method
+
+
 The webshop administrator should be able to add, remove and update products.
 For every product we need to know the following information:
  ProductNumber, name , price, description.
