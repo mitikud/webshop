@@ -29,4 +29,4 @@ When an order is placed, the webshop should send an email to the customer.
 The webshop administrator should be able to add, remove and update suppliers.
 
 
-In the domain classes of the webshop specify clearly for each d
+
