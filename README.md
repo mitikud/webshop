@@ -29,7 +29,7 @@ When an order is placed, the webshop should send an email to the customer.
 The webshop administrator should be able to add, remove and update suppliers.
 
                         # Resources
- [Resource one](web site url)
+ [Resource one](google.com)
 
 
 
