@@ -28,5 +28,8 @@ Customers can create an account, so they can login when they want to place on or
 When an order is placed, the webshop should send an email to the customer.
 The webshop administrator should be able to add, remove and update suppliers.
 
+                        # Resources
+ [Resource one](web site url)
+
 
 
